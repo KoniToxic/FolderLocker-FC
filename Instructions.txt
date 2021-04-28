@@ -1,0 +1,35 @@
+1. Open FolderLocker.txt
+2. Find: if NOT %pass%==0000 goto FAIL
+3. Change the 0000 with your the password  
+   you want to set.
+4. Then click the top left - File then 
+   Click -Save as- Choose your location - 
+   Before you click save, choose from the
+   drop box all-files.
+5. Now when you are ready rename the folder from
+   FolderLocker.txt to FolderLocker.bat (if is not
+   changing click the last category of the file
+   explore (View) then mark the check box
+   File name extentions. Then rename the folder again.
+6. Now open the file. After you open it a command 
+   prompt which will close immediately and make
+   folder named Locker. After that put the files 
+   in it, which you want to lock. After that click 
+   the bat file again and type Y in the pop-up 
+   window of the command prompt. 
+7. Now if everything is fine the Locker folder shoud
+   dissapear. If you want it to be unlocked, click
+   the bat file again and tipe your password, you 
+   have entered first time. Now the Locker folder
+   should appear again. 
+8. If you have forgot the password transform the .bat
+   to .txt and find the text from step 2.
+   If you don't feel save, copy all of the code 
+   from the FolderLocker.txt and then put it somewher
+   like in locked one-note notebook or something 
+   like that. Now you can permanently delete the .bat
+   Now if you want to unlock it right click on the 
+   place where you locked your folder hover on new, 
+   then  click Text Document. Now follow the steps
+   from 4. 5. After you do them open the bat eneter
+   the password you have set and you are ready.
