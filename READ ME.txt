@@ -1,0 +1,3 @@
+Please follow the steps, so you can
+successful lock you folder. 
+-By FC team
